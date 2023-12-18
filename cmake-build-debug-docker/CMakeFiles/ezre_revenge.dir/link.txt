@@ -1,1 +1,0 @@
-/usr/lib/llvm-6.0/bin/clang  -DENABLE_AVX=OFF -g   CMakeFiles/ezre_revenge.dir/ezre_revenge.c.o  -o ezre_revenge 

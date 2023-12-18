@@ -1,4 +1,0 @@
-/tmp/ezre/cmake-build-debug-docker/CMakeFiles/edit_cache.dir
-/tmp/ezre/cmake-build-debug-docker/CMakeFiles/rebuild_cache.dir
-/tmp/ezre/cmake-build-debug-docker/CMakeFiles/ezre.dir
-/tmp/ezre/cmake-build-debug-docker/CMakeFiles/ezre_revenge.dir
