@@ -1,0 +1,13 @@
+# ezre
+
+## ezre
+
+Description: Where my flag at? I can't find it :(
+Level: Ex easy
+FLAG: YPCTF{b1b6aad9e4f3d8048ae9c2bed10ef784}
+
+## ezre revenge
+
+Description: I found flag maybe, but it's encrypted. so do you know how to decrypt it?
+Level: Ex easy
+FLAG: YPCTF{e6b1912c78b14f7c2bba7f9c34b376f1}
